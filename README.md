@@ -1,14 +1,13 @@
-### Hi there 👋
 
-This is Arkadeep Kashyap and its blah blah 
 
 
 
 ### Hi there 👋, Arkadeep Kashyap
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I’m Arkadeep Kashyap , I'm a Electrical Engineering Undergrad at NIT Silchar. I am a passionate for web development,programming and cross platform Desktop Applications and have developed many website.I have also worked as a part time freelancer. 
+<!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
+
+
 
 Skills:  React JS
          Node JS
