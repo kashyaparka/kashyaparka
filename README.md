@@ -28,6 +28,6 @@ This is Arkadeep Kashyap , I am passionate for Website development, programming 
 
 ![GitHub metrics](https://metrics.lecoq.io/kashyaparka)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)  
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
 
 ![Profile views](https://gpvc.arturio.dev/kashyaparka)  
