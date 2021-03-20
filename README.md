@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is Arkadeep Kashyap and its blah blah 
+
+![Arkadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&hide=contribs,prs)
 <!--
 **kashyaparka/kashyaparka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
