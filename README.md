@@ -4,7 +4,7 @@
 
 ### Hi there 👋, Arkadeep Kashyap here
 
-I’m Arkadeep Kashyap , I'm a Electrical Engineering Undergrad at NIT Silchar. I am a passionate for web development,programming and cross platform Desktop Applications and have developed many website.I have also worked as a part time freelancer. 
+This is Arkadeep Kashyap , I'm a Electrical Engineering Undergrad at NIT Silchar. I am passionate for Website development, programming and cross platform Desktop Applications and have developed many website.I have also worked as a part time freelancer. 
 <!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 #### Full Stack Web Developer
