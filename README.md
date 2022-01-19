@@ -16,9 +16,6 @@
 <br>
 <br>
   
-## Github Stats  
-
-![Arkadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&hide=contribs,prs)
 
 
 <br>
