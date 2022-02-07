@@ -16,13 +16,22 @@
 
 
 ## Get in touch:
+[![Linkedin Badge](https://img.shields.io/badge/-kashyaparka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashyaparka/)](https://www.linkedin.com/in/kashyaparka/)
+
+[![Gmail Badge](https://img.shields.io/badge/-arkadeep.kashyap39@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadeep.kashyap39@gmail.com)](mailto:arkadeep.kashyap39@gmail.com)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashyaparka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arkadeep-kashyap-8a186bla7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kashyaparka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashyaparka.github.io/)  
+
+<hr>
+
+
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashyaparka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arkadeep-kashyap-8a186bla7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kashyaparka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashyaparka.github.io/)   -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark)](https://git.io/streak-stats)
 
+
 <hr>
+
 
 [![Arkadeeps's github activity graph](https://activity-graph.herokuapp.com/graph?username=kashyaparka&theme=react-dark)](https://github.com/kashyaparka/github-readme-activity-graph)
 
