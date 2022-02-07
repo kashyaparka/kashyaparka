@@ -12,7 +12,7 @@
 ✔️ I also enjoy doing coding on various platforms.<br>
 <!--This is Arkadeep Kashyap -->
 <!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
-<img src="https://i.pinimg.com/564x/fc/ef/69/fcef693b6ce877e77144548d96ce6cb6.jpg" align="right" width="30%">
+<!-- <img src="https://i.pinimg.com/564x/fc/ef/69/fcef693b6ce877e77144548d96ce6cb6.jpg" align="right" width="30%"> -->
 
 <!-- 
 ## <h3 align="left">Languages and Skills:</h3>
