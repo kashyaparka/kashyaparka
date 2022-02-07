@@ -23,7 +23,7 @@
 ## Get in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-kashyaparka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashyaparka/)](https://www.linkedin.com/in/kashyaparka/)
 
-[![Gmail Badge](https://img.shields.io/badge/-arkadeep.kashyap39@@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadeep.kashyap39@gmail.com)](mailto:arkadeep.kashyap39@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arkadeep.kashyap39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arkadeep.kashyap39@gmail.com)](mailto:arkadeep.kashyap39@gmail.com)
 
 
 
