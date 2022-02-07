@@ -24,7 +24,7 @@
 
 <hr>
 
-[![Arkadeeps's github activity graph](https://activity-graph.herokuapp.com/graph?username=kashyaparka&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arkadeeps's github activity graph](https://activity-graph.herokuapp.com/graph?username=kashyaparka&theme=react-dark)](https://github.com/kashyaparka/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/kashyaparka)  
 
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
