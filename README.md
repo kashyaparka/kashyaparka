@@ -12,7 +12,7 @@
 ✔️ I also enjoy doing coding on various platforms.
 <!--This is Arkadeep Kashyap -->
 <!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
-
+<img src="https://i.pinimg.com/564x/fc/ef/69/fcef693b6ce877e77144548d96ce6cb6.jpg" align="right" width="30%">
 
 <!-- 
 ## <h3 align="left">Languages and Skills:</h3>
@@ -47,5 +47,5 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" align="right" width="30%">
 
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
-<img src="https://i.pinimg.com/564x/fc/ef/69/fcef693b6ce877e77144548d96ce6cb6.jpg">
+
 
