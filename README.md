@@ -4,7 +4,7 @@
 
 ## Arkadeep Kashyap
 ### A Electrical Engineering Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a> 2019-23.
-<img src="https://i.pinimg.com/750x/f0/42/43/f04243eda89b3fce49ede8e0c577fc36.jpg">
+
 <!--This is Arkadeep Kashyap -->
 <!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
@@ -27,7 +27,7 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashyaparka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arkadeep-kashyap-8a186bla7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kashyaparka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashyaparka.github.io/)   -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark&width="40%")](https://git.io/streak-stats)<img src="https://i.pinimg.com/750x/f0/42/43/f04243eda89b3fce49ede8e0c577fc36.jpg" width="30%">
 
 
 <hr>
