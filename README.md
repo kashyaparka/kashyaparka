@@ -27,7 +27,7 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashyaparka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arkadeep-kashyap-8a186bla7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kashyaparka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashyaparka.github.io/)   -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark&width="40%")](https://git.io/streak-stats)<img src="https://i.pinimg.com/750x/f0/42/43/f04243eda89b3fce49ede8e0c577fc36.jpg" width="30%" height="30%">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark&width="40%")](https://git.io/streak-stats)<img src="https://i.pinimg.com/originals/6d/ab/6b/6dab6bfb3050c7315d2313232c863808.gif" width="30%" height="30%">
 
 
 <hr>
