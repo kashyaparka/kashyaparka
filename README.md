@@ -5,6 +5,11 @@
 ## Arkadeep Kashyap
 ### A Electrical Engineering Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a> 2019-23.
 
+✔️ I am interested in development and have contributed to some open-source organisations .  <br>
+
+✔️ I have experience in FULL stack web development .<br>
+
+✔️ I also enjoy doing coding on various platforms.
 <!--This is Arkadeep Kashyap -->
 <!--![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
