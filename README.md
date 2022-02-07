@@ -37,7 +37,7 @@
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%">
-<img src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" align="right" width="30%">
+
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
 
