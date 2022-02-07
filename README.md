@@ -47,5 +47,5 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" align="right" width="30%">
 
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
-<img src="https://i.pinimg.com/originals/38/33/07/3833073402da2e286d0fc00f327670e2.gif">
+<img src="https://i.pinimg.com/564x/fc/ef/69/fcef693b6ce877e77144548d96ce6cb6.jpg">
 
