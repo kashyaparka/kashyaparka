@@ -32,7 +32,7 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kashyaparka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arkadeep-kashyap-8a186bla7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kashyaparka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kashyaparka.github.io/)   -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark&width="40%")](https://git.io/streak-stats)<img src="https://i.pinimg.com/originals/b0/d9/de/b0d9ded5e1fa9dd304a3b7712e931aad.gif" align="right" width="30%">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka&theme=dark&width="40%")](https://git.io/streak-stats)<img src="https://i.pinimg.com/originals/b0/d9/de/b0d9ded5e1fa9dd304a3b7712e931aad.gif" align="right" width="25%">
 
 <br>
 <hr>
@@ -44,7 +44,7 @@
 <hr>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" align="right" width="30%">
+![My github stats](https://github-readme-stats.vercel.app/api?username=kashyaparka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)<img src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" align="right" width="25%">
 
 <!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kashyaparka)-->
 
