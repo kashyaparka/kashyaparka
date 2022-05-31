@@ -5,7 +5,7 @@
 ## Arkadeep Kashyap
 ### A Electrical Engineering Undergraduate at <a href="http://www.nits.ac.in/"> National Institute of Technology, Silchar </a> 2019-23.
 
-✔️ I am interested in development and have contributed to some open-source organisations .  <br>
+✔️ I am passionate for development and have contributed to some open-source organisations .  <br>
 
 ✔️ I have experience in FULL stack web development .<br>
 
